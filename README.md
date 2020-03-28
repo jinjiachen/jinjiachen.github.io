@@ -1,2 +1,2 @@
-# jjc_tux.github.io
+# 微博
 # archlinux notes
