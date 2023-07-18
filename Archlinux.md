@@ -19,6 +19,8 @@ exec openbox-session
 
 不过会出现该用户无法在终端登录的现象，无奈，最后尝试自己建立~/.xinitrc，并加入上面一行，成功！！
 
+slim登录的背景图片在/usr/share/slim/themes/default/下，直接替换background.jpg即可
+
 
 终端
 
