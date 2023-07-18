@@ -1,6 +1,6 @@
 archlinux 安装过程所得
 
-﻿tint2 openbox xorg-server xorg-xinit alsa-utils ntfs-3g wifi-menu netctl dialog feh volumeicon rox slim man base base-devel openssh git rsync pciutils usbutils aria2 fcitx5-im fcitx5-chinese-addons scrot tmux
+﻿tint2 openbox xorg-server xorg-xinit alsa-utils ntfs-3g wifi-menu netctl dialog feh volumeicon rox slim man base base-devel openssh git rsync pciutils usbutils aria2 fcitx5-im fcitx5-chinese-addons scrot tmux mousepad
  
 fcitx问题
 安装fcitx,fcitx-table-extra可得到wubi，不过无法打出中文，纠结很久最后在～/.bash_profile里加入一行：
